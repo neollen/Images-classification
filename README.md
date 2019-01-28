@@ -26,6 +26,7 @@
 | Average pooling| 0.955 | 0.74 |
 - Activation Function
 Sigmoid,ReLU,ELU.   step=10000
+
 | polling methid | lost function | 
 | ------ | ------ | 
 | Sigmoid| 2.319 | 
