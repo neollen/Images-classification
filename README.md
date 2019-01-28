@@ -9,11 +9,28 @@
 [Structure of first layer](https://github.com/neollen/Images-classification/blob/master/structure%20of%20first%20layer.png)
 ## Different paramters 
 - Batch size
- batch size= 64,128,256,512
+ batch size= 64,128,256,512.  step=1000
  
-| 一个普通标题 | 一个普通标题 | 一个普通标题 |
+| Batch size | lost function | precision |
 | ------ | ------ | ------ |
-| 短文本 | 中等文本 | 稍微长一点的文本 |
-| 稍微长一点的文本 | 短文本 | 中等文本 |
+| 64 | 3.458 | 0.2 |
+| 128 | 3.187 | 0.257 |
+| 256 | 3.176| 0.266 |
+| 512 | 3.459 | 0.2812|
+- Pooling method
+  Max pooling and Average pooling. step=10000
+  
+| polling methid | lost function | precision |
+| ------ | ------ | ------ |
+| Max pooling| 0.758 | 0.83 |
+| Average pooling| 0.955 | 0.74 |
+- Activation Function
+Sigmoid,ReLU,ELU.   step=10000
+| polling methid | lost function | 
+| ------ | ------ | 
+| Sigmoid| 2.319 | 
+| ReLU| 0.75 | 
+| ELU| 0.76 | 
+
 
  
