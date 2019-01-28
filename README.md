@@ -21,14 +21,20 @@ batch size= 64,128,256,512.  step=1000
 | 256 | 3.176| 0.266 |
 | 512 | 3.459 | 0.2812|
 - Pooling method
-- Max pooling and Average pooling. step=10000
+
+
+
+Max pooling and Average pooling. step=10000
   
 | polling methid | lost function | precision |
 | ------ | ------ | ------ |
 | Max pooling| 0.758 | 0.83 |
 | Average pooling| 0.955 | 0.74 |
 - Activation Function
-- Sigmoid,ReLU,ELU.   step=10000
+
+
+
+Sigmoid,ReLU,ELU.   step=10000
 
 | polling methid | lost function | 
 | ------ | ------ | 
