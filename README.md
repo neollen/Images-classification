@@ -9,7 +9,10 @@
 [Structure of first layer](https://github.com/neollen/Images-classification/blob/master/structure%20of%20first%20layer.png)
 ## Different paramters 
 - Batch size
-- batch size= 64,128,256,512.  step=1000
+
+
+
+batch size= 64,128,256,512.  step=1000
  
 | Batch size | lost function | precision |
 | ------ | ------ | ------ |
