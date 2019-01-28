@@ -8,9 +8,9 @@
 ## Structure of First Layer
 [Structure of first layer](https://github.com/neollen/Images-classification/blob/master/structure%20of%20first%20layer.png)
 ## Different paramters 
-### Batch size
+- Batch size
  batch size= 64,128,256,512
- 姓名|技能|排行
+姓名|技能|排行
 --|:--:|--:
 刘备|哭|大哥
 关羽|打|二哥
