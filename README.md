@@ -5,5 +5,5 @@
 - Analyzed the influence on accuracy based on different batch sizes, pooling methods and activation functions
 ## Structure of CNN
 [Structure of CNN](https://github.com/neollen/Images-classification/blob/master/Structure%20of%20CNN.png)
-### Structure of first layer
+## Structure of First Layer
 [Structure of first layer](https://github.com/neollen/Images-classification/blob/master/structure%20of%20first%20layer.png)
